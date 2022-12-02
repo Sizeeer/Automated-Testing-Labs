@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2604d0f-1547-4507-909a-4164f39bf222" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Asos_Laba10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asos_Laba10/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asos_Laba10/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asos_Laba10/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asos_Laba10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asos_Laba10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asos_Laba10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asos_Laba10/src/main/java/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asos_Laba10/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asos_Laba10/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asos_Laba10/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asos_Laba10/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asos_Laba10/src/test/java/AsosTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba9/Asos/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba9/Asos/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba9/Asos/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba9/Asos/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba9/Asos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba9/Asos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba9/Asos/src/main/java/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba9/Asos/src/main/java/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba9/BringItOn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba9/BringItOn/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba9/ICanWin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba9/ICanWin/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HjPrhOShYeb8oee6oiZLGMkchB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "D:/University/QA/Automated-Testing-Labs-main/LW9/AppleTest/.idea",
+    "last_opened_file_path": "D:/University/QA/Laba10/Asos_Laba10"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\University\QA\Laba10" />
+      <recent name="D:\University\QA\Automated-Testing-Labs-main\LW9\AppleTest\.idea" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Laba9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Laba9" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2604d0f-1547-4507-909a-4164f39bf222" name="Changes" comment="" />
+      <created>1668795719579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668795719579</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
